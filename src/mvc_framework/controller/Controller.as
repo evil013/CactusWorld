@@ -1,0 +1,2 @@
+﻿package mvc_framework.controller {		import com.dayvid.mvc.controller.controller_components.ComponentController;	import com.greensock.*;	import com.greensock.loading.*;		import mvc_framework.model.Model;
+	public class Controller extends ComponentController	{				public function Controller(aModel:Model)		{			super(aModel, this);					}				override protected function init():void		{			// do nothing		}	}}

@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;	import my_iso_test.IsoTest;		public class IsoTestDoc extends MovieClip 	{		public function IsoTestDoc()		{			// constructor code			var isoTest:IsoTest = new IsoTest();			addChild(isoTest);		}	}	}

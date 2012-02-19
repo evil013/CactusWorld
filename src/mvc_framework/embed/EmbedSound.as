@@ -1,0 +1,1 @@
+﻿package mvc_framework.embed {	import flash.display.MovieClip;	import flash.media.Sound;		public class EmbedSound extends MovieClip 	{		// MUSIC				// SFX Looped				// SFX 		[Embed(source="/assets/sounds/message_pop.mp3")]		public var MessagePop:Class;				public function EmbedSound () {					}	}}

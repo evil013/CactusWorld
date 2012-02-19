@@ -1,0 +1,2 @@
+﻿package com.dayvid.mvc.controller.controller_components {	import com.dayvid.mvc.sound.soundfx.SoundFXPlayer;
+	public class SoundControl extends AbstractController 	{		private var _soundFXPlayer:SoundFXPlayer;				public function SoundControl() 		{			super();		}				public function get soundFXPlayer():SoundFXPlayer		{			return _soundFXPlayer;		}		public function set soundFXPlayer(aObject:SoundFXPlayer) 		{			_soundFXPlayer = aObject;		}	}}

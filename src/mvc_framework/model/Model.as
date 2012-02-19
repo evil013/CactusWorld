@@ -1,0 +1,2 @@
+﻿package mvc_framework.model {		import com.dayvid.mvc.model.model_components.ComponentModel;		import flash.display.DisplayObjectContainer;
+	public class Model extends ComponentModel	{				public function Model(aTargetStage_mc:DisplayObjectContainer)		{			super(aTargetStage_mc);		}				override protected function init():void		{			// does nothing		}	}}

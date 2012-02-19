@@ -1,0 +1,1 @@
+﻿package com.dayvid.mvc.model.model_components {	//	public class FlashVars extends Framework {		//		public function FlashVars () {			super();		}		// call this after model has been initialized in the RootView		public function initFlashVars ():void {			/*if (targetStage_mc.loaderInfo.parameters.autoplay == undefined) {				model.autoplay = true;			}*/		}	}}

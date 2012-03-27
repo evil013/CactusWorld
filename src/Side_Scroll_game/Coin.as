@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;		public class Coin extends MovieClip {		public var isACoin:Boolean;		public function Coin() {			// constructor code						isACoin = true;					}	}	}

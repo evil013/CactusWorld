@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;		public class Water extends MovieClip {		public var isAWater:Boolean;		public function Water() {			// constructor code						isAWater = true;					}	}	}

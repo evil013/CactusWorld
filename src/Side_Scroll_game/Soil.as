@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;		public class Soil extends MovieClip {		public var isASoil:Boolean;		public function Soil() {			// constructor code						isASoil = true;					}	}	}

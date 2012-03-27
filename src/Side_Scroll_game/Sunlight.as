@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;		public class Sunlight extends MovieClip {		public var isASunlight:Boolean;		public function Sunlight() {			// constructor code						isASunlight = true;					}	}	}
